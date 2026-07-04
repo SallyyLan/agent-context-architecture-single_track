@@ -1,6 +1,8 @@
 # LLM Agent Instruction Architecture — Campaign Voucher Lookup via Natural Language
 
 > Context engineering for an internal LLM-powered lookup agent. The goal: let company's operations and marketing teams query voucher configurations instantly in plain language, without prerequisite of technical knowledge and touching a database.
+> Company name, real schema, table names, and business data have been removed or abstracted.
+
 
 ---
 
